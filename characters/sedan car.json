@@ -1,0 +1,97 @@
+{
+  "id": "char-sedan-car",
+  "name": "Sedan Car",
+  "category": "character",
+  "subcategory": "vehicle",
+  "tags": ["car", "vehicle", "transport"],
+  "data": [
+    {
+      "id": 1,
+      "layerId": 0,
+      "shape": "rectangle",
+      "x": 150,
+      "y": 180,
+      "width": 120,
+      "height": 30,
+      "fillColor": "#E74C3C",
+      "fillGradient": {
+        "type": "linear",
+        "angle": 90,
+        "stops": [
+          { "offset": 0, "color": "#C0392B" },
+          { "offset": 1, "color": "#E74C3C" }
+        ]
+      },
+      "strokeColor": "#333333",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    },
+    {
+      "id": 2,
+      "layerId": 0,
+      "shape": "rectangle",
+      "x": 170,
+      "y": 155,
+      "width": 80,
+      "height": 25,
+      "fillColor": "#EC7063",
+      "strokeColor": "#333333",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    },
+    {
+      "id": 3,
+      "layerId": 0,
+      "shape": "rectangle",
+      "x": 175,
+      "y": 160,
+      "width": 70,
+      "height": 15,
+      "fillColor": "#AED6F1",
+      "strokeColor": "#333333",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.8,
+      "locked": false
+    },
+    {
+      "id": 4,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 165,
+      "y": 200,
+      "width": 25,
+      "height": 25,
+      "fillColor": "#333333",
+      "strokeColor": "#000000",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    },
+    {
+      "id": 5,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 230,
+      "y": 200,
+      "width": 25,
+      "height": 25,
+      "fillColor": "#333333",
+      "strokeColor": "#000000",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    }
+  ]
+}

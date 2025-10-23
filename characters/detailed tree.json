@@ -1,0 +1,72 @@
+{
+  "id": "char-detailed-tree",
+  "name": "Detailed Tree",
+  "category": "character",
+  "subcategory": "nature",
+  "tags": ["tree", "plant", "outdoor", "nature"],
+  "data": [
+    {
+      "id": 1,
+      "layerId": 0,
+      "shape": "rectangle",
+      "x": 185,
+      "y": 180,
+      "width": 30,
+      "height": 60,
+      "fillColor": "#8B4513",
+      "fillGradient": {
+        "type": "linear",
+        "angle": 90,
+        "stops": [
+          { "offset": 0, "color": "#654321" },
+          { "offset": 1, "color": "#8B4513" }
+        ]
+      },
+      "strokeColor": "#654321",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    },
+    {
+      "id": 2,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 160,
+      "y": 130,
+      "width": 80,
+      "height": 80,
+      "fillColor": "#228B22",
+      "fillGradient": {
+        "type": "radial",
+        "stops": [
+          { "offset": 0, "color": "#2ECC71" },
+          { "offset": 1, "color": "#228B22" }
+        ]
+      },
+      "strokeColor": "#006400",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.9,
+      "locked": false
+    },
+    {
+      "id": 3,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 180,
+      "y": 120,
+      "width": 60,
+      "height": 60,
+      "fillColor": "#27AE60",
+      "strokeColor": "#006400",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.8,
+      "locked": false
+    }
+  ]
+}
