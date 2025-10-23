@@ -1,0 +1,57 @@
+{
+  "id": "bg-rolling-hills",
+  "name": "Rolling Hills",
+  "category": "background",
+  "subcategory": "nature",
+  "tags": ["grass", "outdoor", "ground", "hills"],
+  "data": [
+    {
+      "id": 1,
+      "layerId": 0,
+      "shape": "rectangle",
+      "x": 0,
+      "y": 200,
+      "width": 400,
+      "height": 100,
+      "fillColor": "#27AE60",
+      "strokeColor": "#27AE60",
+      "strokeWidth": 0,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    },
+    {
+      "id": 2,
+      "layerId": 0,
+      "shape": "ellipse",
+      "x": -50,
+      "y": 180,
+      "width": 300,
+      "height": 100,
+      "fillColor": "#2ECC71",
+      "strokeColor": "#2ECC71",
+      "strokeWidth": 0,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.8,
+      "locked": false
+    },
+    {
+      "id": 3,
+      "layerId": 0,
+      "shape": "ellipse",
+      "x": 150,
+      "y": 190,
+      "width": 300,
+      "height": 120,
+      "fillColor": "#27AE60",
+      "strokeColor": "#27AE60",
+      "strokeWidth": 0,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    }
+  ]
+}
