@@ -1,0 +1,57 @@
+{
+  "id": "effect-comic-burst",
+  "name": "Comic Burst",
+  "category": "effect",
+  "subcategory": "impact",
+  "tags": ["explosion", "burst", "impact", "comic"],
+  "data": [
+    {
+      "id": 1,
+      "layerId": 0,
+      "shape": "star",
+      "x": 175,
+      "y": 125,
+      "width": 60,
+      "height": 60,
+      "fillColor": "#E74C3C",
+      "strokeColor": "#C0392B",
+      "strokeWidth": 3,
+      "filled": true,
+      "rotation": 0.314,
+      "opacity": 1,
+      "locked": false
+    },
+    {
+      "id": 2,
+      "layerId": 0,
+      "shape": "star",
+      "x": 180,
+      "y": 130,
+      "width": 50,
+      "height": 50,
+      "fillColor": "#F39C12",
+      "strokeColor": "#E67E22",
+      "strokeWidth": 3,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 1,
+      "locked": false
+    },
+    {
+      "id": 3,
+      "layerId": 0,
+      "shape": "star",
+      "x": 185,
+      "y": 135,
+      "width": 30,
+      "height": 30,
+      "fillColor": "#F1C40F",
+      "strokeColor": "#F39C12",
+      "strokeWidth": 2,
+      "filled": true,
+      "rotation": 0.393,
+      "opacity": 1,
+      "locked": false
+    }
+  ]
+}
