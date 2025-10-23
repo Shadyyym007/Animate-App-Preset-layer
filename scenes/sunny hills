@@ -1,0 +1,168 @@
+{
+  "id": "scene-sunny-hills",
+  "name": "Sunny Hills",
+  "description": "A bright outdoor scene with sky, sun, and rolling hills",
+  "tags": ["outdoor", "day", "nature", "landscape"],
+  "layers": [
+    {
+      "name": "Background",
+      "type": "background",
+      "objects": [
+        {
+          "id": 1,
+          "layerId": 0,
+          "shape": "rectangle",
+          "x": 0,
+          "y": 0,
+          "width": 400,
+          "height": 300,
+          "fillColor": "#87CEEB",
+          "fillGradient": {
+            "type": "linear",
+            "angle": 180,
+            "stops": [
+              { "offset": 0, "color": "#87CEEB" },
+              { "offset": 1, "color": "#E0F6FF" }
+            ]
+          },
+          "strokeColor": "#000000",
+          "strokeWidth": 0,
+          "filled": true,
+          "rotation": 0,
+          "opacity": 1,
+          "locked": false
+        },
+        {
+          "id": 2,
+          "layerId": 0,
+          "shape": "circle",
+          "x": 300,
+          "y": 30,
+          "width": 60,
+          "height": 60,
+          "fillColor": "#FAD7A0",
+          "fillGradient": {
+            "type": "radial",
+            "stops": [
+              { "offset": 0, "color": "#FFFFFF" },
+              { "offset": 0.5, "color": "#FDEB71" },
+              { "offset": 1, "color": "#F7971E" }
+            ]
+          },
+          "strokeColor": "#FAD7A0",
+          "strokeWidth": 0,
+          "filled": true,
+          "rotation": 0,
+          "opacity": 0.9,
+          "locked": false
+        },
+        {
+          "id": 3,
+          "layerId": 0,
+          "shape": "rectangle",
+          "x": 0,
+          "y": 200,
+          "width": 400,
+          "height": 100,
+          "fillColor": "#27AE60",
+          "strokeColor": "#27AE60",
+          "strokeWidth": 0,
+          "filled": true,
+          "rotation": 0,
+          "opacity": 1,
+          "locked": false
+        },
+        {
+          "id": 4,
+          "layerId": 0,
+          "shape": "ellipse",
+          "x": -50,
+          "y": 180,
+          "width": 300,
+          "height": 100,
+          "fillColor": "#2ECC71",
+          "strokeColor": "#2ECC71",
+          "strokeWidth": 0,
+          "filled": true,
+          "rotation": 0,
+          "opacity": 0.8,
+          "locked": false
+        },
+        {
+          "id": 5,
+          "layerId": 0,
+          "shape": "ellipse",
+          "x": 150,
+          "y": 190,
+          "width": 300,
+          "height": 120,
+          "fillColor": "#27AE60",
+          "strokeColor": "#27AE60",
+          "strokeWidth": 0,
+          "filled": true,
+          "rotation": 0,
+          "opacity": 1,
+          "locked": false
+        }
+      ]
+    },
+    {
+      "name": "Character",
+      "type": "character",
+      "objects": [
+        {
+          "id": 6,
+          "layerId": 0,
+          "shape": "rectangle",
+          "x": 85,
+          "y": 160,
+          "width": 30,
+          "height": 60,
+          "fillColor": "#8B4513",
+          "fillGradient": {
+            "type": "linear",
+            "angle": 90,
+            "stops": [
+              { "offset": 0, "color": "#654321" },
+              { "offset": 1, "color": "#8B4513" }
+            ]
+          },
+          "strokeColor": "#654321",
+          "strokeWidth": 2,
+          "filled": true,
+          "rotation": 0,
+          "opacity": 1,
+          "locked": false
+        },
+        {
+          "id": 7,
+          "layerId": 0,
+          "shape": "circle",
+          "x": 60,
+          "y": 110,
+          "width": 80,
+          "height": 80,
+          "fillColor": "#228B22",
+          "fillGradient": {
+            "type": "radial",
+            "stops": [
+              { "offset": 0, "color": "#2ECC71" },
+              { "offset": 1, "color": "#228B22" }
+            ]
+          },
+          "strokeColor": "#006400",
+          "strokeWidth": 2,
+          "filled": true,
+          "rotation": 0,
+          "opacity": 0.9,
+          "locked": false
+        }
+      ]
+    },
+    {
+      "name": "Effects",
+      "type": "effect",
+      "objects": []
+    }
+  ]
+}
