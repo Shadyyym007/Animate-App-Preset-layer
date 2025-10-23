@@ -1,0 +1,73 @@
+{
+  "id": "effect-smoke-plume",
+  "name": "Smoke Plume",
+  "category": "effect",
+  "subcategory": "particle",
+  "tags": ["smoke", "cloud", "vapor", "puff"],
+  "data": [
+    {
+      "id": 1,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 170,
+      "y": 130,
+      "width": 40,
+      "height": 40,
+      "fillColor": "#ECF0F1",
+      "strokeColor": "#BDC3C7",
+      "strokeWidth": 1,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.7,
+      "locked": false
+    },
+    {
+      "id": 2,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 190,
+      "y": 120,
+      "width": 35,
+      "height": 35,
+      "fillColor": "#BDC3C7",
+      "strokeColor": "#95A5A6",
+      "strokeWidth": 1,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.6,
+      "locked": false
+    },
+    {
+      "id": 3,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 180,
+      "y": 100,
+      "width": 45,
+      "height": 45,
+      "fillColor": "#ECF0F1",
+      "strokeColor": "#BDC3C7",
+      "strokeWidth": 1,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.5,
+      "locked": false
+    },
+    {
+      "id": 4,
+      "layerId": 0,
+      "shape": "circle",
+      "x": 200,
+      "y": 140,
+      "width": 30,
+      "height": 30,
+      "fillColor": "#95A5A6",
+      "strokeColor": "#7F8C8D",
+      "strokeWidth": 1,
+      "filled": true,
+      "rotation": 0,
+      "opacity": 0.4,
+      "locked": false
+    }
+  ]
+}
