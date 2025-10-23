@@ -1,8 +1,129 @@
 {
   "version": "1.0.0",
   "lastUpdated": "2025-01-20",
-  "backgrounds": [],
-  "characters": [],
-  "effects": [],
-  "scenes": []
+  "backgrounds": [
+    {
+      "id": "bg-vibrant-sunset",
+      "name": "Vibrant Sunset",
+      "category": "background",
+      "subcategory": "nature",
+      "tags": ["sunset", "evening", "colorful", "sky"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/backgrounds/vibrant-sunset.json"
+    },
+    {
+      "id": "bg-rolling-hills",
+      "name": "Rolling Hills",
+      "category": "background",
+      "subcategory": "nature",
+      "tags": ["grass", "outdoor", "ground", "hills"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/backgrounds/rolling-hills.json"
+    },
+    {
+      "id": "bg-day-sky-sun",
+      "name": "Day Sky with Sun",
+      "category": "background",
+      "subcategory": "nature",
+      "tags": ["sky", "day", "sun", "clouds"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/backgrounds/day-sky-sun.json"
+    },
+    {
+      "id": "bg-underwater",
+      "name": "Underwater",
+      "category": "background",
+      "subcategory": "nature",
+      "tags": ["water", "ocean", "sea", "deep"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/backgrounds/underwater.json"
+    }
+  ],
+  "characters": [
+    {
+      "id": "char-block-person",
+      "name": "Block Person",
+      "category": "character",
+      "subcategory": "people",
+      "tags": ["person", "character", "simple"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/characters/block-person.json"
+    },
+    {
+      "id": "char-sedan-car",
+      "name": "Sedan Car",
+      "category": "character",
+      "subcategory": "vehicle",
+      "tags": ["car", "vehicle", "transport"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/characters/sedan-car.json"
+    },
+    {
+      "id": "char-detailed-tree",
+      "name": "Detailed Tree",
+      "category": "character",
+      "subcategory": "nature",
+      "tags": ["tree", "plant", "outdoor", "nature"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/characters/detailed-tree.json"
+    },
+    {
+      "id": "char-simple-robot",
+      "name": "Simple Robot",
+      "category": "character",
+      "subcategory": "object",
+      "tags": ["robot", "scifi", "future"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/characters/simple-robot.json"
+    }
+  ],
+  "effects": [
+    {
+      "id": "effect-magic-sparkles",
+      "name": "Magic Sparkles",
+      "category": "effect",
+      "subcategory": "particle",
+      "tags": ["sparkle", "magic", "shine", "glow"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/effects/magic-sparkles.json"
+    },
+    {
+      "id": "effect-comic-burst",
+      "name": "Comic Burst",
+      "category": "effect",
+      "subcategory": "impact",
+      "tags": ["explosion", "burst", "impact", "comic"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/effects/comic-burst.json"
+    },
+    {
+      "id": "effect-smoke-plume",
+      "name": "Smoke Plume",
+      "category": "effect",
+      "subcategory": "particle",
+      "tags": ["smoke", "cloud", "vapor", "puff"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/effects/smoke-plume.json"
+    },
+    {
+      "id": "effect-speed-lines",
+      "name": "Speed Lines",
+      "category": "effect",
+      "subcategory": "motion",
+      "tags": ["speed", "motion", "fast"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/effects/speed-lines.json"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-sunny-hills",
+      "name": "Sunny Hills",
+      "description": "A bright outdoor scene with sky, sun, and rolling hills",
+      "tags": ["outdoor", "day", "nature", "landscape"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/scenes/sunny-hills.json"
+    },
+    {
+      "id": "scene-sunset-drive",
+      "name": "Sunset Drive",
+      "description": "Car driving on road at sunset",
+      "tags": ["sunset", "car", "road", "vehicle"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/scenes/sunset-drive.json"
+    },
+    {
+      "id": "scene-robot-world",
+      "name": "Robot World",
+      "description": "A robot on a dark background",
+      "tags": ["robot", "scifi", "night"],
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/Animate-App-Preset-layer/main/scenes/robot-world.json"
+    }
+  ]
 }
